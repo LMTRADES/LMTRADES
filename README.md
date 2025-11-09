@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_HEADER_IMAGE_URL_HERE" alt="LMTRADES Header Banner" />
+  <img src="gitlogo.gif" alt="LMTRADES Logo" />
   </p>
 
 <h1 align="center">
