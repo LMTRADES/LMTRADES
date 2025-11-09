@@ -68,15 +68,6 @@ This is a novel security and analysis tool that uses a fine-tuned local LLM (Phi
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LMTRADES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="LMTRADES GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LMTRADES&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I am always open to discussing new projects, collaboration, or opportunities in the quant and AI space.
