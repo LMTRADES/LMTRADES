@@ -8,10 +8,10 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub profile. I am a Quant Developer and AI Engineer specializing in building high-performance, automated systems for the blockchain and decentralized finance (DeFi) space.
+  Welcome to my GitHub profile. I am a Quant Developer and AI Engineer specializing in building high-performance, automated trading systems across both traditional financial markets (Forex, Stocks) and the decentralized finance (DeFi) space.
 </p>
 <p align="center">
-  My work focuses on the intersection of **Quantitative Finance**, **Artificial Intelligence**, and **On-Chain Data Engineering** to find and exploit market inefficiencies.
+  My work focuses on the intersection of **Quantitative Finance**, **Artificial Intelligence**, and **Data Engineering** (both on-chain and off-chain) to find and exploit market inefficiencies.
 </p>
 
 ---
