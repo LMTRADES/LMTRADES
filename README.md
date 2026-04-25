@@ -14,9 +14,7 @@ I build automated trading systems and AI tooling for traditional finance and DeF
 - **Blockchain:** web3.py, ethers.js, Solidity, Hardhat
 - **Infrastructure:** Linux, Docker, PostgreSQL, Redis, asyncio
 
-## Projects
-**Multichain MEV/DEX Arbitrage Scanner**
-Automated trading system scanning 7 EVM chains and 15+ DEXs concurrently in under 4 seconds. Features an execution engine, dry-run controls, and Flashbots integration.
-
-**AI On-Chain Auditor**
-Security tool using a fine-tuned local LLM (Phi-3/Llama-3) to audit smart contracts and identify vulnerabilities like unsafe external calls or rug pulls.
+## Currently Exploring
+- **Agentic AI:** Developing autonomous agents for complex on-chain execution and strategy optimization.
+- **Low-Latency Inference:** Optimizing local LLM deployments for time-sensitive trading environments.
+- **Cross-Chain Dynamics:** Analyzing liquidity fragmentation and emerging MEV strategies across L2s.
